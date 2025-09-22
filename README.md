@@ -10,7 +10,7 @@
 # About Me
 I'm a junior at Georgetown University majoring in Computer Science and minoring in linguistics. My current focus is natural language processing-- I'd love to use my nlp skills to solve real world problems, such as software accessibility and AI development.
 
-I'm a full-stack developer, and I love engineering all aspects of a process! In my internship and academic experiences, I've gotten to work with [some pretty awesome tools](#tech-stack), from Microsfot Azure Logic Apps to Flask for Python. 
+I'm a full-stack developer, and I love engineering all aspects of a process! In my internship and academic experiences, I've gotten to work with some pretty awesome tools, from Microsfot Azure Logic Apps to Flask for Python. 
 
 
 # Tech Stack
