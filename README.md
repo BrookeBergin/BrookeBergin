@@ -8,10 +8,9 @@
 </div>
 
 # About Me
-I'm a junior at Georgetown University majoring in Computer Science and minoring in linguistics. My current focus is natural language processing-- I'd love to use my nlp skills to solve real world problems, such as software accessibility and AI development.
+I'm a junior at Georgetown University majoring in Computer Science and minoring in linguistics. I focus on natural language processing and full-stack development-- I love to build software that solves real-world problems, like improving accessibility, analyzing data, and deploying user-facing applications.
 
-I'm a full-stack developer, and I love engineering all aspects of a process! In my internship and academic experiences, I've gotten to work with some pretty awesome tools, from Microsfot Azure Logic Apps to Flask for Python. 
-
+I'm a full-stack developer; I love engineering all aspects of a project! In my internship and academic projects, I've gotten to work with some pretty awesome tools, from Microsfot Azure Logic Apps to Flask, Java web servers, and front-end development. 
 
 # Tech Stack
 
@@ -25,6 +24,15 @@ I'm a full-stack developer, and I love engineering all aspects of a process! In 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70"/>
 
-          
+
+# Highlights
+* Full-stack project experience deploying web applications with dynamic UX
+* Multi-threaded Java servers and session management
+* NLP pipelines, data visualization, and automation with Python
+* Azure Cloud Tools (pipelines, Blob data storage, and machine learning)
+* SQL server design, creation, and querying
+
+# Let's connect!
+Reach out anytime at brookebergin27@gmail.com, or <a href="https://linkedin.com/in/brooke-bergin">connect with me on LinkedIn</a>
           
           
