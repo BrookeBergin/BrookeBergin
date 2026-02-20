@@ -32,6 +32,8 @@ I'm a full-stack developer; I love engineering all aspects of a project! In my i
 * Azure Cloud Tools (pipelines, Blob data storage, and machine learning)
 * SQL server design, creation, and querying
 
+<a href="https://ai.tsmfinancialmodels.com/">Click here to see a tool I developed as an intern!</a>
+
 # Let's connect!
 Reach out anytime at brookebergin27@gmail.com, or <a href="https://linkedin.com/in/brooke-bergin">connect with me on LinkedIn</a>
           
