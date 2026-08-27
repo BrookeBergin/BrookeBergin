@@ -8,15 +8,16 @@
 </div>
 
 # About Me
-I'm a junior at Georgetown University majoring in Computer Science and minoring in linguistics. I focus on natural language processing and full-stack development-- I love to build software that solves real-world problems, like improving accessibility, analyzing data, and deploying user-facing applications.
+I'm a senior at Georgetown University (May 2027) majoring in Computer Science and minoring in linguistics (concentrating on natural language processing). I'm a full-stack developer with experience as both an in-house dev and a consultant. I've done front-end, back-end, data engineering, and agentic work-- I love it all. Really, I love to build software that solves human problems.
 
-I'm a full-stack developer; I love engineering all aspects of a project! In my internship and academic projects, I've gotten to work with some pretty awesome tools, from Microsfot Azure Logic Apps to Flask, Java web servers, and front-end development. 
+I've owned client projects end-to-end, given demos to company CEOs, used MCand adapted to changing requirements with ease. I've studied systems design, APIs, data structures, and tech ethics. The most important part about me, though, is my <i>why</i>-- I want to use tech to build a better world, solve problems others can't solve, and lean into the age of AI to help humans thrive.
 
 # Tech Stack
 
 **Back end**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70" />
+
           
 
 
