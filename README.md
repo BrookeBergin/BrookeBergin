@@ -10,7 +10,7 @@
 # About Me
 I'm a senior at Georgetown University (May 2027) majoring in Computer Science and minoring in linguistics (concentrating on natural language processing). I'm a full-stack developer with experience as both an in-house dev and a consultant. I've done front-end, back-end, data engineering, and agentic work-- I love it all. Really, I love to build software that solves human problems.
 
-I've owned client projects end-to-end, given demos to company CEOs, used MCand adapted to changing requirements with ease. I've studied systems design, APIs, data structures, and tech ethics. The most important part about me, though, is my <i>why</i>-- I want to use tech to build a better world, solve problems others can't solve, and lean into the age of AI to help humans thrive.
+I've owned client projects end-to-end, given demos to company CEOs, and adapted to changing requirements with ease. I've studied systems design, APIs, data structures, and tech ethics. The most important part about me, though, is my <i>why</i>-- I want to use tech to build a better world, solve problems others can't solve, and lean into the age of AI to help humans thrive.
 
 # Tech Stack
 
